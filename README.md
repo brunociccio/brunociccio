@@ -1,9 +1,9 @@
 <h1 align="center"> Hey there.. I'm Bruno Ciccio! </h1>
 <div>
   <h2 align "justified">About me</h2>
-  <p>💻| Aspiring Full Stack Developer<br>
-  📚| I'm currently studying Systems Analysis and Development at FIAP<br>
-  🖥️| Curious and focused on learning new programming and markup languages.<br>
+  💻| Aspiring Full Stack Developer.<br>
+  📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
+  🖥️| Curious and focused on learning new programming and markup languages.<br><br><br>
 </div>
 
 <div>
