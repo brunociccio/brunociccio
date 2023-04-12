@@ -1,11 +1,12 @@
 <h1 align="center"> Hey there.. I'm Bruno Ciccio! </h1>
 <div>
-  <h2 align "justified">About me</h2>
+  <h2>About me</h2>
   💻| Aspiring Full Stack Developer.<br>
   📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
-  🖥️| Curious and focused on learning new programming and markup languages.<br><br><br>
+  🖥️| Curious and focused on learning new programming and markup languages.<br><br>
 </div>
 
+<h2>GitHub Stats</h2>
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=brunociccio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&layout=compact&langs_count=16&theme=ocean_dark"/>
