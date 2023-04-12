@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there.. I'm Bruno Ciccio! </h1>
+<h1 align="center"> Bruno Ciccio </h1>
 <div>
   <h2>About me</h2>
   💻| Aspiring Full Stack Developer.<br>
@@ -6,9 +6,8 @@
   🖥️| Curious and focused on learning new programming and markup languages.<br><br>
 </div>
 
-<h2>GitHub Stats</h2>
-<div>
-  <a href="https>//beacons.ai/brunociccio">
+<div align="center">
+  <h2>GitHub Stats</h2>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=brunociccio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>
