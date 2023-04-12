@@ -8,6 +8,7 @@
 
 <h2>GitHub Stats</h2>
 <div>
+  <a href="https>//beacons.ai/brunociccio">
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=brunociccio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>
