@@ -3,7 +3,7 @@
   <h2>About me</h2>
   💻| Aspiring Full Stack Developer.<br>
   📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
-  🖥️| Curious and focused on learning new programming and markup languages.<br><br>
+  🧠| Curious and focused on learning new programming and markup languages.<br><br>
 </div>
 
 <div align="center">
