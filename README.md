@@ -3,7 +3,9 @@
   <h2>About me</h2>
   💻| Aspiring Full Stack Developer.<br>
   📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
-  🧠| Curious and focused on learning new programming and markup languages.<br><br>
+  🧠| Curious and focused on learning new programming and markup languages.<br>
+  📃| Link to my certificates at Alura: https://cursos.alura.com.br/user/bruno-ciccio/fullCertificate/dd1b4cafcd820bf4c62593d8540296a3
+  <br>
 </div>
 
 <div align="center">
