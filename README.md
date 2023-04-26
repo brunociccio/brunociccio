@@ -3,9 +3,8 @@
   <h2>About me</h2>
   💻| Aspiring Full Stack Developer.<br>
   📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
+  📃| More than 180 hours of study with certificates on the Alura platform.<br>
   🧠| Curious and focused on learning new programming and markup languages.<br>
-  📃| More than 180 hours of study with certificates on the Alura platform.
-  <br>
 </div>
 
 <div align="center">
