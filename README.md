@@ -1,10 +1,11 @@
 <h1 align="center"> Bruno Ciccio </h1>
 <div>
-  <h2>About me</h2>
-  💻| Aspiring Full Stack Developer.<br>
-  📚| I'm currently studying Systems Analysis and Development at FIAP.<br>
-  📃| More than 180 hours of study with certificates on the Alura platform.<br>
-  🧠| Curious and focused on learning new programming and markup languages.<br>
+  <h2>Sobre mim</h2>
+  💻| Aspirante a Desenvolvedor Full Stack.<br>
+  📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP (conclusão em 2024).<br>
+  📃| Tenho mais de 200 horas de estudos, certificados e formações na plataforma Alura.<br>
+  🧠| Sempre curioso em aprender novas linguagens de programacão.<br>
+  
 </div>
 
 <div align="center">
