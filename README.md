@@ -3,8 +3,8 @@
   <h2>Sobre mim</h2>
   💻| Aspirante a Desenvolvedor Full Stack.<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP (conclusão em 2024).<br>
-  📃| Tenho mais de 200 horas de estudos, certificados e formações na plataforma Alura.<br>
-  🧠| Sempre curioso em aprender novas linguagens de programacão.<br>
+  📃| Tenho mais de 200 horas de estudos, certificados e formações de nível básico e intermediário na plataforma Alura.<br>
+  🧠| Curioso em aprender e se desevolver com novas linguagens de programacão.<br>
   
 </div>
 
