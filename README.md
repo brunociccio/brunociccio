@@ -2,9 +2,9 @@
 <div>
   <h2>Sobre mim</h2>
   💻| Aspirante a Desenvolvedor Full Stack.<br>
-  🧠| Novo no GitHub, mas familiarizado com algumas áreas de Desenvolvimento Web.<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP.<br>
-  📃| Tenho mais de 200 horas de estudos, certificados e formações de nível básico e intermediário na plataforma Alura.<br><br>
+  🧠| Tenho mais de 200 horas de estudos, certificados e formações de nível básico e intermediário <br>
+  nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras.<br><br>
 </div>
 
 <div align="center">
