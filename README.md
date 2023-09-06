@@ -1,10 +1,11 @@
 <h1 align="center"> Bruno Ciccio </h1>
 <div>
   <h2>Sobre mim</h2>
-  💻| Aspirante a Desenvolvedor Full Stack.<br>
+  💻| Aspirante a Desenvolvedor Full - Focado em Java Stack.<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP.<br>
   🧠| Tenho mais de 200 horas de estudos, certificados e formações de nível básico e intermediário <br>
-  nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras.<br><br>
+  nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras.<br>
+  👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate<br>
 </div>
 
 <div align="center">
