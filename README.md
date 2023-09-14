@@ -3,7 +3,7 @@
   <h2 align="center">Sobre mim</h2>
   💻| Aspirante a Desenvolvedor Full Stack - Focado em Java<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
-  🧠| Tenho mais de 200 horas de estudos, certificados e formações de nível básico e intermediário<br>
+  🧠| Tenho mais de 300 horas de estudos, certificados e formações de nível básico e intermediário<br>
   nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras<br>
   👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate<br>
 </div>
