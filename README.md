@@ -1,7 +1,6 @@
 <h1 align="center"> Bruno Ciccio </h1>
 <div>
   <h2>Sobre mim</h2>
-  🏴‍☠️| Intern Pentesters na Hakai Offensive Security<br>
   💻| Aspirante a Desenvolvedor Full Stack<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
   🧠| Tenho mais de 300 horas de estudos, certificados e formações de nível básico e intermediário<br>
