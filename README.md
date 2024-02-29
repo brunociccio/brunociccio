@@ -6,7 +6,6 @@
   🧠| Tenho mais de 300 horas de estudos, certificados e formações de nível básico e intermediário<br>
   nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras<br>
   👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate<br>
-  👨🏻‍💻| Estudando para Certificação de Web Hacking da Crowsec<br>
 </div>
 
 <div align="center">
