@@ -15,7 +15,7 @@
 </div>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <h2 align="center">SKILLS</h2>
     <img align="center" height="50" width="50" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" heigth="30" width="50" alt="python-icon" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
