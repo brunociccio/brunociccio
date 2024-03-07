@@ -1,11 +1,12 @@
 <h1 align="center"> Bruno Ciccio </h1>
 <div>
   <h2>Sobre mim</h2>
-  💻| Aspirante a Desenvolvedor Full Stack<br>
-  📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
-  🧠| Tenho mais de 500 horas de estudos, certificados e formações de nível básico e intermediário<br>
-  👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate<br>
-  🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre a Porto e a FIAP<br>
+💻| Aspirante a Desenvolvedor Full Stack<br>
+📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
+🧠| Tenho mais de 500 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
+👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE<br>
+ 📱| Focando atualmente em Desenvolvimento Android - Kotlin & Java<br>
+🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre a Porto e a FIAP <br>
 </div>
 
 <div align="center">
