@@ -3,9 +3,9 @@
   <h2>Sobre mim</h2>
   💻| Aspirante a Desenvolvedor Full Stack<br>
   📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
-  🧠| Tenho mais de 300 horas de estudos, certificados e formações de nível básico e intermediário<br>
-  nas plataformas Alura, Udemy, Rocketseat, Dev Samurai, entre outras<br>
+  🧠| Tenho mais de 500 horas de estudos, certificados e formações de nível básico e intermediário<br>
   👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate<br>
+  🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre a Porto e a FIAP<br>
 </div>
 
 <div align="center">
