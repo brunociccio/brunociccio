@@ -1,4 +1,4 @@
-<h1 align="center"> Bruno Ciccio </h1>
+<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=8949B9&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Bruno+Ciccio.;Sou+Desenvolvedor+Full-Stack;" alt="Typing SVG" /></a></h1>
 <div>
   <h2>Sobre mim</h2>
 💻| Aspirante a Desenvolvedor Full Stack<br>
