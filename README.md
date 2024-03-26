@@ -1,9 +1,9 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=8949B9&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Bruno+Ciccio.;Sou+Desenvolvedor+Full-Stack;" alt="Typing SVG" /></a></h1>
 <div>
   <h2>Sobre mim</h2>
-💻| Aspirante a Desenvolvedor Full Stack<br>
+💻| Desenvolvedor Full Stack<br>
 📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
-🧠| Tenho mais de 500 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
+🧠| Tenho mais de 600 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
 👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE <br>
 📱 | Focando atualmente em Desenvolvimento Android - Kotlin & Java<br>
 🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre a Porto e a FIAP <br>
