@@ -1,7 +1,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=8949B9&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Bruno+Ciccio.;Sou+Desenvolvedor+Full-Stack;" alt="Typing SVG" /></a></h1>
 <div>
   <h2>Sobre mim</h2>
-💻| Desenvolvedor Full Stack<br>
+💻| Aspitante a Desenvolvedor Full Stack<br>
 📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP<br>
 🧠| Tenho mais de 600 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
 👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE <br>
@@ -9,11 +9,14 @@
 🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre a Porto e a FIAP <br>
 </div>
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <a href = "http://www.github.com/brunociccio"><img height = "170em" src ="https://github-readme-stats.vercel.app/api?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true)">
- <img align= "right" height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact" alt="brunociccio"/>
+<div style="display: flex; justify-content: center;">
+  <h2 align="center">GitHub Stats</h2>
+  <a href="http://www.github.com/brunociccio" style="text-decoration: none; margin-right: 10px;">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="brunociccio"/>
+  </a>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="brunociccio"/>
 </div>
+
 
 <div  align="center"> 
   <div style="display: inline_block">
