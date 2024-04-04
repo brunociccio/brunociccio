@@ -6,7 +6,7 @@
 🧠| Tenho mais de 600 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
 👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE <br>
 📱 | Focando atualmente em Desenvolvimento Android - Kotlin & Java<br>
-🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre as empresas Porto e a FIAP <br>
+🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre as empresas Porto e FIAP <br>
 </div>
 
 <div style="display: flex; justify-content: center;">
