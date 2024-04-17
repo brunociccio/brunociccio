@@ -13,7 +13,7 @@
   <a href="http://www.github.com/brunociccio" style="text-decoration: none; margin-right: 10px;">
     <img height="210em" src="https://github-readme-stats.vercel.app/api?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="brunociccio"/>
   </a>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="brunociccio"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunociccio&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact&langs_count=12" alt="brunociccio"/>
 </div>
 
 
