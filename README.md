@@ -6,6 +6,7 @@
 🧠| Tenho mais de 700 horas de estudos, certificados e formações de nível básico e intermediário na área de tecnologia<br>
 👨🏻‍💻| Estudando para Certificação OCA Java SE 8 Programmer - Associate da ORACLE <br>
 🏆| Vencedor do NEXT 2023 na Categoria: Digital Innovation - parceria entre as empresas Porto e FIAP <br>
+🏆| Vencedor da Global Solution 2024: Inovação Azul - um desafio proposto pelas empresas Oceans 20 e FIAP com parceria das empresas Softtek, Select Soluções, AWS, USP e Pacto Global <br>
 </div>
 
 <div style="display: flex; justify-content: center;">
