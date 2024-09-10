@@ -20,16 +20,22 @@
 <div  align="center"> 
   <div style="display: inline_block">
     <h2 align="center">SKILLS</h2>
+    <img align="center" height="50" width="50" alt="java-icon" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
+    <img align="center" height="50" width="50" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="50" width="50" alt="maven-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
     <img align="center" height="50" width="50" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" heigth="30" width="50" alt="python-icon" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
-     <img align="center" height="50" width="50" alt="java-icon" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
+    <img align="center" height="50" width="50" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" height="50" width="50" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="50" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="50" width="50" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"><br>
-   </div>
+    <img align="center" heigth="30" width="50" alt="python-icon" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+    <img align="center" height="50" width="50" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="50" width="50" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" height="50" width="50" alt="oracle-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"><br>
+  </div>
+</div>
+
 
   <div> 
   <h2 align = "justified"></h2>
