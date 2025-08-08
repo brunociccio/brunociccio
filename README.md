@@ -5,7 +5,6 @@
 📚| Formado em Analise e Desenvolvimento de Sistemas<br>
 🏆| Vencedor do NEXT 2023: Digital Innovation - parceria entre as empresas Porto e FIAP <br>
 🏆| Vencedor da Global Solution 2024: Inovação Azul - um desafio proposto por Oceans 20 e FIAP com parceria das empresas Softtek, Select Soluções, AWS, USP, UNESCO e Pacto Global <br>
-🧠| Tenho mais de 700 horas de estudos, certificados e formações de nível básico, intermediário e avançado na área de tecnologia<br>
 </div>
 
 <div style="display: flex; justify-content: center;">
