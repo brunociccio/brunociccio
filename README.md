@@ -1,7 +1,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg">Olá, me chamo Bruno Ciccio</h1>
 <div>
   <h2>Sobre mim</h2>
-Especialista em Front-end com foco na criação de produtos digitais escaláveis, combinando engenharia de software, experiência do usuário e Inteligência Artificial para transformar problemas complexos em soluções intuitivas e eficientes.
+Especialista em Front-end com foco na criação de produtos digitais escaláveis, combinando engenharia de software, experiência do usuário e Inteligência Artificial para transformar problemas complexos em soluções intuitivas e eficientes. </br>
 
 Atuo principalmente no desenvolvimento de aplicações web modernas, participando desde a concepção até a implementação e evolução contínua das soluções. Trabalho em colaboração com áreas de produto, negócio e design para garantir que decisões técnicas estejam alinhadas às necessidades dos usuários e aos objetivos da organização.
 
