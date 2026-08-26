@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Bruno Ciccio</h1>
 <div>
-Desenvolvedor de Software, especialista em Front-end, com foco em Arquitetura de Software e Engenharia de Software aplicada à Inteligência Artificial.
+Desenvolvedor de Software, especialista em Front-end, com foco em Arquitetura de Software e Engenharia de Software aplicada à Inteligência Artificial. <br>
 
 Experiência no desenvolvimento de produtos digitais, com forte atuação em engenharia de Front-end, UX/UI, integração entre sistemas e APIs, além de desenvolvimento Full Stack. Nos últimos meses, venho ampliando esse escopo para decisões arquiteturais, desenho de soluções, modernização de sistemas legados, definição de padrões e organização técnica de projetos.
 
