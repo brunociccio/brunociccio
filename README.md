@@ -1,21 +1,22 @@
 <h1>Olá, me chamo Bruno Ciccio</h1>
 <div>
-Especialista em Front-end com foco na criação de produtos digitais escaláveis, combinando engenharia de software, experiência do usuário e Inteligência Artificial para transformar problemas complexos em soluções intuitivas e eficientes. </br>
+Desenvolvedor de Software, especialista em Front-end, com foco em Arquitetura de Software e Engenharia de Software aplicada à Inteligência Artificial.
 
+Experiência no desenvolvimento de produtos digitais, com forte atuação em engenharia de Front-end, UX/UI, integração entre sistemas e APIs, além de desenvolvimento Full Stack. Nos últimos meses, venho ampliando esse escopo para decisões arquiteturais, desenho de soluções, modernização de sistemas legados, definição de padrões e organização técnica de projetos.
 
-Atuo principalmente no desenvolvimento de aplicações web modernas, participando desde a concepção até a implementação e evolução contínua das soluções. Trabalho em colaboração com áreas de produto, negócio e design para garantir que decisões técnicas estejam alinhadas às necessidades dos usuários e aos objetivos da organização.
+Inteligência Artificial é uma das minhas principais áreas de especialização, com foco em AI-first Software Engineering, Context Engineering, Agent Harnesses e Agentic Workflows. Desenvolvo e aplico abordagens para integrar agentes de IA de forma estruturada ao ciclo de desenvolvimento de software, indo além do uso pontual de ferramentas para geração de código.
 
-Minha experiência como desenvolvedor Full Stack amplia a capacidade de analisar e construir soluções de ponta a ponta, considerando arquitetura, integrações, performance, escalabilidade e regras de negócio desde as etapas iniciais do desenvolvimento.
+Esse trabalho envolve a organização de contexto, documentação, restrições arquiteturais, ferramentas, critérios de qualidade e mecanismos de validação para que agentes possam atuar de forma controlada ao longo do SDLC - análise, planejamento, arquitetura, implementação, testes, documentação e revisão.
 
-Também atuo na interseção entre desenvolvimento e UX/UI Design, utilizando processos de descoberta, validação e prototipação para reduzir incertezas e apoiar a construção de experiências mais consistentes, acessíveis e alinhadas ao contexto de uso.
+Aplico esses conceitos também na modernização de sistemas legados. Atualmente, participo de uma iniciativa de refatoração utilizando um workflow AI-first de ponta a ponta, concebido para servir como referência técnica e operacional para futuras modernizações e novos projetos.
 
-Aplico Inteligência Artificial como parte do fluxo de trabalho em desenvolvimento, design e descoberta, contribuindo para acelerar experimentação, automação de processos, validação de hipóteses e tomada de decisões técnicas.
+Meu foco profissional está na convergência entre Engenharia de Software, Arquitetura e Inteligência Artificial, mantendo Front-end e experiência do usuário como áreas importantes da minha base técnica. Busco ampliar progressivamente minha atuação em arquitetura, desenho de soluções e definição de processos de engenharia apoiados por IA.
 
 Reconhecimentos:
-1° Lugar - NEXT 2023 – Digital Innovation (Porto & FIAP)
-1° Lugar - Global Solution 2024 – Inovação Azul (Oceans 20 e parceiros)
+1º Lugar — NEXT 2023 · Digital Innovation (Porto & FIAP)
+1º Lugar — Global Solution 2024 · Inovação Azul (Oceans 20 e parceiros)
 
-Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando MBA em UX/UI com IA e pós-graduação de Engenharia de Software aplicado a IA </br>
+Formado em Análise e Desenvolvimento de Sistemas, atualmente cursando MBA em UX/UI com IA e pós-graduação em Engenharia de Software aplicada à IA. </br>
 </div>
 
 
