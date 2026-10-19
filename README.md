@@ -61,8 +61,6 @@ O objetivo é desenvolver soluções com maior consistência técnica, rastreabi
 | Design | Figma, Framer, UX/UI, Design Systems |
 | Engenharia | Git, GitHub, CI/CD, AI-first SDLC |
 
----
-
 ## Reconhecimentos
 
 🥇 **1º Lugar — NEXT 2023**  
@@ -76,8 +74,6 @@ Inovação Azul — Oceans 20 e parceiros
 - **Análise e Desenvolvimento de Sistemas** — FIAP
 - **MBA em UX/UI com IA** — Em andamento
 - **Pós-graduação em Engenharia de Software aplicada à IA** — Em andamento
-
----
 
 ## 🔗 Conecte-se comigo
 
