@@ -9,8 +9,6 @@ Trabalho na concepção, arquitetura, desenvolvimento e evolução de produtos d
 
 Minha atuação abrange desde a definição de interfaces e arquiteturas até a implementação de APIs, integrações, automações e soluções baseadas em LLMs em ambientes de desenvolvimento e produção.
 
----
-
 ## Áreas de atuação
 
 ### Front-end Engineering
@@ -41,8 +39,6 @@ Minha atuação abrange desde a definição de interfaces e arquiteturas até a 
 - Design systems, fluxos e jornadas do usuário.
 - Integração entre design, engenharia e produto.
 
----
-
 ## AI-first Software Engineering
 
 Aplico inteligência artificial ao ciclo de desenvolvimento de software (**SDLC**), estruturando workflows em que agentes participam de:
@@ -53,9 +49,7 @@ Trabalho com **Context Engineering, Agent Harnesses e Agentic Workflows**, organ
 
 O objetivo é desenvolver soluções com maior consistência técnica, rastreabilidade, segurança e confiabilidade.
 
----
-
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 | Área | Tecnologias |
 |---|---|
@@ -76,8 +70,6 @@ Digital Innovation — Porto & FIAP
 
 🥇 **1º Lugar — Global Solution 2024**  
 Inovação Azul — Oceans 20 e parceiros
-
----
 
 ## 🎓 Formação
 
