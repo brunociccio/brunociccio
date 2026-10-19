@@ -85,6 +85,4 @@ Inovação Azul — Oceans 20 e parceiros
 
 ---
 
-**Front-end Engineering · Software Architecture · AI Engineering · Product Design**
-
-*Tecnologia, arquitetura e experiência do usuário conectadas para construir produtos digitais.*
+**Tecnologia, arquitetura e experiência do usuário conectadas para construir produtos digitais.**
