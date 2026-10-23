@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<title id="title">Engineering in Motion — selected work 2026</title>
+<desc id="desc">Featured GFX project and four selected projects: Doora, Dia do Sim, Resolve Já and ENGAAGIA. Private code, visible engineering.</desc>
+<defs>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7956d8"/><stop offset=".5" stop-color="#b179f7"/><stop offset="1" stop-color="#477fff"/></linearGradient>
+<linearGradient id="gfx" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211b35"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+</defs>
+<rect width="1000" height="750" fill="#0d1117" rx="18"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="39" fill="#8b949e" font-size="12" letter-spacing="2">SELECTED WORK  ·  2026</text>
+<text x="30" y="82" fill="#f0f6fc" font-size="32" font-weight="700">Engineering in Motion</text>
+<text x="30" y="112" fill="#8b949e" font-size="16">Building products. Modernizing systems. Engineering with AI.</text>
+<rect x="30" y="139" width="940" height="235" rx="15" fill="url(#gfx)" stroke="#574484"/>
+<rect x="52" y="159" width="153" height="27" rx="13" fill="#392951"/>
+<text x="67" y="177" fill="#d5b8ff" font-size="12" font-weight="700">FEATURED PROJECT</text>
+<rect x="827" y="159" width="120" height="27" rx="13" fill="#17392a"/>
+<text x="845" y="177" fill="#65d9a0" font-size="12" font-weight="700">IN PROGRESS</text>
+<rect x="52" y="203" width="83" height="70" rx="12" fill="#302447"/>
+<text x="64" y="248" fill="#c7b0ff" font-size="28" font-weight="700">GFX</text>
+<text x="154" y="229" fill="#f0f6fc" font-size="25" font-weight="700">GFX  ·  AI-First Modernization</text>
+<text x="154" y="256" fill="#a8b0ba" font-size="15">Legacy modernization  ·  Architecture  ·  Agentic SDLC</text>
+<text x="52" y="301" fill="#c9d1d9" font-size="15">Modernização de sistemas e evolução de engenharia com IA, arquitetura,</text>
+<text x="52" y="322" fill="#c9d1d9" font-size="15">Context Engineering e workflows orientados por agentes.</text>
+<g font-size="12" fill="#c9d1d9">
+<rect x="52" y="337" width="73" height="24" rx="6" fill="#292e38"/><text x="65" y="353">AI-first</text>
+<rect x="134" y="337" width="106" height="24" rx="6" fill="#292e38"/><text x="147" y="353">Architecture</text>
+<rect x="249" y="337" width="152" height="24" rx="6" fill="#292e38"/><text x="262" y="353">Context Engineering</text>
+<rect x="410" y="337" width="144" height="24" rx="6" fill="#292e38"/><text x="423" y="353">Agentic Workflows</text>
+<rect x="563" y="337" width="68" height="24" rx="6" fill="#292e38"/><text x="576" y="353">UX/UI</text>
+</g>
+<g>
+<rect x="30" y="391" width="458" height="135" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="512" y="391" width="458" height="135" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="30" y="540" width="458" height="135" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="512" y="540" width="458" height="135" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="50" y="410" width="36" height="4" rx="2" fill="#58a6ff"/>
+<rect x="532" y="410" width="36" height="4" rx="2" fill="#f2cc60"/>
+<rect x="50" y="559" width="36" height="4" rx="2" fill="#bc8cff"/>
+<rect x="532" y="559" width="36" height="4" rx="2" fill="#3fb950"/>
+<g font-size="22" font-weight="700" fill="#f0f6fc">
+<text x="50" y="448">Doora</text><text x="532" y="448">Dia do Sim</text>
+<text x="50" y="597">Resolve Já</text><text x="532" y="597">ENGAAGIA</text>
+</g>
+<g font-size="14" fill="#8b949e">
+<text x="50" y="476">Marketplace &amp; product engineering</text>
+<text x="532" y="476">Wedding platform &amp; payments</text>
+<text x="50" y="625">Digital product &amp; system evolution</text>
+<text x="532" y="625">Digital experience &amp; delivery</text>
+</g>
+<g font-size="12" fill="#c9d1d9">
+<text x="50" y="503">React Native  ·  Supabase</text>
+<text x="532" y="503">Next.js  ·  Spring Boot</text>
+<text x="50" y="652">Product  ·  UX/UI  ·  Engineering</text>
+<text x="532" y="652">Front-end  ·  UX/UI  ·  Vercel</text>
+</g>
+<g font-size="11" font-weight="700">
+<text x="395" y="503" fill="#58a6ff">ACTIVE</text>
+<text x="880" y="503" fill="#f2cc60">ACTIVE</text>
+<text x="383" y="652" fill="#bc8cff">CORPORATE</text>
+<text x="890" y="652" fill="#3fb950">SHIPPED</text>
+</g>
+</g>
+<g transform="translate(352 703)" fill="none" stroke="#8b949e" stroke-width="2"><rect x="0" y="9" width="15" height="12" rx="2"/><path d="M3 9V6a4.5 4.5 0 0 1 9 0v3"/></g>
+<text x="376" y="721" fill="#8b949e" font-size="14">Private code  ·  Visible engineering</text>
+</g></svg>
