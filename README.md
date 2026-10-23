@@ -1,12 +1,18 @@
 <img src="./assets/hero-aligned.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
-## Sobre mim
+<a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
+<a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
+<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
+
+## <img src="./assets/accent-vertical.svg" alt="" width="5" height="25" /> Sobre mim
 
 Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, Full Stack e UX/UI Design**. Conecto engenharia, design e visão de produto para criar experiências digitais consistentes.
 
 Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas fáceis de manter e evoluir**. A inteligência artificial é parte essencial do meu processo de desenvolvimento, ampliando possibilidades sem substituir qualidade, fundamentos técnicos ou pensamento crítico.
 
 ## Tech Stack
+
+<img src="./assets/accent-horizontal.svg" alt="" width="220" height="4" />
 
 ### Front-end & Design
 
@@ -18,7 +24,7 @@ Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas f
 
 **Complementares:** Framer · Supabase · APIs REST · Integrações · Design Systems · CI/CD
 
-## AI Engineering
+## <img src="./assets/accent-vertical.svg" alt="" width="5" height="25" /> AI Engineering
 
 Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura à implementação, aos testes e à entrega. Com **Context Engineering, Agent Harnesses, RAG, MCP e agentes**, estruturo fluxos que integram contexto, conhecimento e ferramentas ao trabalho de engenharia.
 
@@ -37,8 +43,3 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 ![AI-assisted SDLC](https://img.shields.io/badge/AI--assisted_SDLC-161B22?style=flat-square&labelColor=3B82F6)
 ![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-161B22?style=flat-square&labelColor=EF4444)
 
-## Contato
-
-<a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
-<a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
-<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
