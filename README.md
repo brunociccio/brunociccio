@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/brunociccio/brunociccio/main/assets/hero.svg?v=20261023b" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
 </div>
 
@@ -28,7 +28,7 @@ Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura
 
 No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de segurança e **Human-in-the-loop** para orientar automações e manter as decisões técnicas verificáveis e sob responsabilidade humana.
 
-<img src="./assets/ai-architecture.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
+<img src="https://raw.githubusercontent.com/brunociccio/brunociccio/main/assets/ai-architecture.svg?v=20261023b" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
 <div align="center">
 
