@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/hero-spaced.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" /><br/>
+  <img src="./assets/hero-spaced.svg?v=20261023-static-904" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" /><br/>
   <a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
   <a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
   <a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
@@ -38,4 +38,4 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 
 <img src="./assets/engineering-in-motion.svg" alt="Engenharia em Movimento: GFX em destaque, Doora, Dia do Sim, Resolve Já e ENGAAGIA. Código privado, engenharia visível." width="100%" />
 
-<img src="./assets/footer-signal.svg" alt="Engineering with purpose. Building with intelligence. — assinatura animada em degradê" width="100%" />
+<img src="./assets/footer-signal.svg" alt="Transformando complexidade em soluções através da engenharia e da inteligência — assinatura em degradê estático" width="100%" />
