@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="904" height="750" viewBox="0 0 904 750" role="img" aria-labelledby="title desc">
 <title id="title">Engenharia em Movimento — projetos selecionados de 2026</title>
 <desc id="desc">GFX em destaque e quatro projetos selecionados: Doora, Dia do Sim, Resolve Já e ENGAAGIA. Código privado, engenharia visível.</desc>
 <defs>
 <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7956d8"/><stop offset=".5" stop-color="#b179f7"/><stop offset="1" stop-color="#477fff"/></linearGradient>
 <linearGradient id="gfx" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211b35"/><stop offset="1" stop-color="#161b22"/></linearGradient>
 </defs>
-<rect width="1000" height="750" fill="#0d1117" rx="18"/>
-<g font-family="Arial,Helvetica,sans-serif">
+<rect width="904" height="750" fill="#0d1117" rx="18"/>
+<g font-family="Arial,Helvetica,sans-serif" transform="matrix(0.961702 0 0 1 -28.85106 0)">
 <text x="30" y="39" fill="#8b949e" font-size="12" letter-spacing="2">PROJETOS SELECIONADOS  ·  2026</text>
 <text x="30" y="82" fill="#f0f6fc" font-size="32" font-weight="700">Engenharia em Movimento</text>
 <text x="30" y="112" fill="#8b949e" font-size="16">Criando produtos. Modernizando sistemas. Engenharia com IA.</text>
