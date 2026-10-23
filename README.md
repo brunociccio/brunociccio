@@ -56,11 +56,6 @@ Aplico esses conceitos ao **AI-assisted SDLC**, integrando IA ao planejamento, Ã
 
 </div>
 
-**AI Development Tools**
-
-[![Claude Code](https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=claude&logoColor=D97757)](https://www.anthropic.com/claude-code)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-161B22?style=flat-square&logo=openai&logoColor=FFFFFF)](https://openai.com/codex/)
-
 <div align="center">
 
 ### Code. Design. Intelligence.
