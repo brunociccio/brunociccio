@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="264" viewBox="0 15 960 264" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="904" height="264" viewBox="28 15 904 264" role="img" aria-labelledby="title desc">
 <title id="title">AI Engineering: arquitetura de sistemas inteligentes</title>
 <desc id="desc">Fluxo conceitual de Context Engineering para AI Agents, conectado a MCP, ferramentas e RAG. Evals, observabilidade e segurança sustentam todo o sistema.</desc>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EF4444"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
 </defs>
 <style>@media (prefers-color-scheme: light) {.diagram-label { fill: #344054; } .diagram-muted { fill: #667085; }}</style>
-<rect x="28" y="28" width="4" height="20" rx="2" fill="url(#accent)"/>
-<text x="44" y="44" class="diagram-label" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">INTELLIGENT SYSTEMS</text>
+
+<text x="28" y="44" class="diagram-label" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">INTELLIGENT SYSTEMS</text>
 <text x="932" y="44" class="diagram-muted" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end">CONCEPTUAL ARCHITECTURE</text>
 <g font-family="Arial,Helvetica,sans-serif">
   <rect x="28" y="77" width="268" height="105" rx="12" fill="#161B22" stroke="#3B4556"/>
