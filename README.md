@@ -1,16 +1,16 @@
-<img src="./assets/hero-compact.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
+<img src="./assets/hero-tight.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
 <a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
 <a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
 <a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
 
-### <img src="./assets/accent-vertical.svg" alt="" width="5" height="21" /> Sobre mim
+<img src="./assets/title-about.svg" alt="Sobre mim" width="560" height="44" />
 
 Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, Full Stack e UX/UI Design**. Conecto engenharia, design e visão de produto para criar experiências digitais consistentes.
 
 Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas fáceis de manter e evoluir**. A inteligência artificial é parte essencial do meu processo de desenvolvimento, ampliando possibilidades sem substituir qualidade, fundamentos técnicos ou pensamento crítico.
 
-### <img src="./assets/accent-vertical.svg" alt="" width="5" height="21" /> Tech Stack
+<img src="./assets/title-stack.svg" alt="Tech Stack" width="560" height="44" />
 
 **Front-end & Design**
 
@@ -22,7 +22,7 @@ Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas f
 
 **Complementares:** Framer · Supabase · APIs REST · Integrações · Design Systems · CI/CD
 
-### <img src="./assets/accent-vertical.svg" alt="" width="5" height="21" /> AI Engineering
+<img src="./assets/title-ai.svg" alt="AI Engineering" width="560" height="44" />
 
 Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura à implementação, aos testes e à entrega. Com **Context Engineering, Agent Harnesses, RAG, MCP e agentes**, estruturo fluxos que integram contexto, conhecimento e ferramentas ao trabalho de engenharia.
 
