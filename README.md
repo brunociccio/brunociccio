@@ -2,10 +2,8 @@
 
 <img src="./assets/hero.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunociccio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/brunociccio)
 
 </div>
 
@@ -13,24 +11,20 @@
 
 Sou **Desenvolvedor de Software, especialista em Front-end**, com atuação em **Arquitetura de Software, AI Engineering, desenvolvimento Full Stack e UX/UI Design**.
 
-Trabalho na concepção, arquitetura, desenvolvimento e evolução de produtos digitais, conectando experiência do usuário, engenharia de software e inteligência artificial. Minha atuação vai da definição de interfaces e arquiteturas à implementação de APIs, integrações, automações e soluções baseadas em LLMs em ambientes de desenvolvimento e produção.
+Trabalho na concepção, arquitetura e evolução de produtos digitais, conectando engenharia de software, experiência do usuário e inteligência artificial. Minha atuação abrange interfaces, APIs, integrações, modernização de sistemas e soluções baseadas em LLMs.
 
-Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot**, modernização de sistemas legados e design systems, além de prototipação avançada com **Figma e Framer**.
-
+Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot**, design systems e prototipação avançada com **Figma e Framer**.
 
 ## Áreas de atuação
 
-| Especialidade | Atuação |
+| Especialidade | Foco |
 | :--- | :--- |
-| **Front-end Engineering** | React, Angular, TypeScript, arquitetura de interfaces, componentização, design systems e integração com APIs. |
-| **Software Architecture & Full Stack** | Desenho de soluções, APIs e serviços com Node.js e Java/Spring Boot, integrações, modernização e padrões técnicos. |
-| **AI Engineering** | Aplicações com LLMs, RAG, Tool/Function Calling, MCP, Agents, Agentic Workflows, Evals e operação de sistemas de IA. |
-| **UX/UI & Product Design** | Experiência do usuário, fluxos, jornadas, prototipação com Figma e Framer e alinhamento entre design e engenharia. |
-
+| **Front-end Engineering** | React, Angular, TypeScript, arquitetura de interfaces, componentização e design systems. |
+| **Software Architecture & Full Stack** | APIs, integrações, serviços com Node.js e Java/Spring Boot e modernização de sistemas. |
+| **AI Engineering** | LLMs, RAG, MCP, Tool Calling, agentes, avaliações, observabilidade e segurança. |
+| **UX/UI & Product Design** | Jornadas, prototipação, experiência do usuário e integração entre design e engenharia. |
 
 ## Tecnologias e ferramentas
-
-<div align="center">
 
 **Front-end & Design**
 
@@ -40,72 +34,52 @@ Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot*
 
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,git,github,githubactions,vscode&theme=dark" alt="Node.js, Java, Spring Boot, Git, GitHub, GitHub Actions e VS Code" />
 
-</div>
+**Competências complementares:** Framer · APIs REST · Integrações · CI/CD · Design Systems · Context Engineering · LLMOps
 
-**Outras competências:** Framer · APIs REST · Arquitetura de Software · Integrações · CI/CD · Design Systems · Context Engineering · LLMOps
+## AI Engineering
 
+Desenvolvo soluções com LLMs e agentes, integrando conhecimento, ferramentas, avaliação e observabilidade. A arquitetura considera segurança, confiabilidade e capacidade de evolução desde a concepção.
 
-## AI Engineering · Arquitetura e sistemas inteligentes
-
-Projeto, desenvolvo e implemento soluções baseadas em LLMs, incluindo recuperação de conhecimento, integração com ferramentas, orquestração de agentes, mecanismos de avaliação e práticas de segurança e observabilidade.
-
-<div align="center">
-  <img src="./assets/ai-architecture.svg" alt="Diagrama conceitual de AI Engineering: Contexto, Agente, Ferramentas e RAG, com avaliação, tracing e segurança" width="100%" />
-</div>
+<img src="./assets/ai-architecture.svg" alt="Arquitetura conceitual de IA: contexto, agentes, ferramentas, RAG, avaliações e segurança" width="100%" />
 
 <details>
-<summary><b>Explorar competências em AI Engineering</b></summary>
+<summary><b>Explorar competências em inteligência artificial</b></summary>
 
-<br />
-
-- **LLMs e RAG:** integração de modelos e recuperação de conhecimento contextual.
-- **Tool/Function Calling e MCP:** integração de ferramentas, serviços e fontes de dados.
-- **AI Agents e Agentic Workflows:** desenho de agentes e fluxos de execução.
-- **Agent Harnesses e Context Engineering:** estruturação de contexto, instruções, ferramentas, restrições e validação.
-- **Evals e Observability/Tracing:** avaliação, rastreabilidade e diagnóstico de comportamento.
-- **AI Security e LLMOps:** segurança, governança e operação de soluções de IA.
-- **Fine-tuning:** estratégias de especialização e adaptação de modelos.
-- **Arquitetura:** diagramas, contratos, integrações e decisões técnicas.
+- **LLMs e RAG:** integração de modelos e recuperação contextual de conhecimento.
+- **Tool/Function Calling e MCP:** conexão com ferramentas, serviços e fontes de dados.
+- **Agents, Agent Harnesses e Agentic Workflows:** orquestração de tarefas, contexto e execução.
+- **Context Engineering:** organização de instruções, ferramentas, restrições e conhecimento.
+- **Evals, Observability e Tracing:** avaliação, rastreabilidade e diagnóstico.
+- **AI Security e LLMOps:** segurança, governança e operação de sistemas de IA.
+- **Fine-tuning:** estratégias de adaptação e especialização de modelos.
 
 </details>
 
-
 ## AI-first Software Engineering
 
-Aplico inteligência artificial ao ciclo de desenvolvimento de software (**SDLC**), estruturando workflows em que agentes apoiam etapas de engenharia sob critérios técnicos e mecanismos de validação.
+Aplico IA ao ciclo de desenvolvimento de software (**SDLC**), com agentes apoiando atividades de engenharia sob critérios técnicos, testes e revisão humana.
 
-<div align="center">
-  <img src="./assets/sdlc.svg" alt="Workflow AI-first: análise, planejamento, arquitetura, implementação, testes, documentação e revisão" width="100%" />
-</div>
+<img src="./assets/sdlc.svg" alt="Ciclo de engenharia AI-first: análise, planejamento, arquitetura, implementação, testes, documentação e revisão" width="100%" />
 
-Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organizar documentação, ferramentas, contexto, restrições arquiteturais e critérios de qualidade. O objetivo é construir processos mais consistentes, rastreáveis e confiáveis, sem abrir mão de revisão e responsabilidade técnica.
-
+Estruturo esses fluxos com **Context Engineering, Agent Harnesses e Agentic Workflows**, priorizando documentação, rastreabilidade, qualidade e responsabilidade técnica.
 
 ## Experiência e projetos
 
-- **GFX:** participação na modernização de um sistema legado por meio de um workflow AI-first de ponta a ponta, orientado à reutilização de práticas em futuras modernizações.
-- **Conector, Resolve Já, AruVox, STIR/SHAKEN e Portal Core v3:** atuação em Front-end, UX/UI, integrações, Full Stack e evolução de produtos e sistemas.
+- **GFX:** modernização de sistema legado com um workflow AI-first de ponta a ponta e práticas reutilizáveis.
+- **Conector, Resolve Já, AruVox, STIR/SHAKEN e Portal Core v3:** atuação em Front-end, UX/UI, integrações, Full Stack e evolução de produtos.
 
-> Projetos corporativos são apresentados em nível geral, sem expor código, dados ou arquitetura interna não públicos.
-
+<sub>Projetos corporativos descritos em nível geral, sem exposição de código, dados ou arquitetura interna não públicos.</sub>
 
 ## Atividade no GitHub
 
-<div align="center">
+[![Gráfico de atividade de Bruno Ciccio](https://github-readme-activity-graph.vercel.app/graph?username=brunociccio&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=EF4444&area=true&hide_border=true)](https://github.com/brunociccio?tab=overview)
 
-[![Gráfico de atividade de Bruno Ciccio](https://github-readme-activity-graph.vercel.app/graph?username=brunociccio&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=EF4444&area=true&hide_border=true)](https://github.com/brunociccio)
-
-</div>
-
-<sub>Gráfico gerado por serviço externo a partir das contribuições públicas visíveis no GitHub. Pode ficar indisponível temporariamente.</sub>
-
-**[Ver meu histórico de contribuições diretamente no GitHub](https://github.com/brunociccio?tab=overview)**
-
+<sub>Visualização de serviço externo, sujeita a indisponibilidade. [Consultar contribuições diretamente no GitHub](https://github.com/brunociccio?tab=overview).</sub>
 
 ## Reconhecimentos
 
-- **1º Lugar — NEXT 2023** · Digital Innovation (Porto & FIAP)
-- **1º Lugar — Global Solution 2024** · Inovação Azul (Oceans 20 e parceiros)
+- **1º lugar — NEXT 2023** · Digital Innovation (Porto & FIAP)
+- **1º lugar — Global Solution 2024** · Inovação Azul (Oceans 20 e parceiros)
 
 ## Formação
 
@@ -113,17 +87,12 @@ Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organi
 - **MBA em UX/UI com IA** — Em andamento
 - **Pós-graduação em Engenharia de Software aplicada à IA** — Em andamento
 
-
----
-
 <div align="center">
 
 ### Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Ciccio-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
+[![LinkedIn](https://img.shields.io/badge/Bruno_Ciccio-3B82F6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
 
-**Front-end Engineering · Software Architecture · AI Engineering · Product Design**
-
-<sub>Tecnologia, arquitetura e experiência do usuário conectadas para construir produtos digitais.</sub>
+<sub>Front-end Engineering · Software Architecture · AI Engineering · Product Design</sub>
 
 </div>
