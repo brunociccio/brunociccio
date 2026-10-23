@@ -36,4 +36,8 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 
 <br/>
 
+<img src="./assets/engineering-in-motion.svg" alt="Engineering in Motion: GFX em destaque, Doora, Dia do Sim, Resolve Já e ENGAAGIA. Private code, visible engineering." width="100%" />
+
+<br/>
+
 <img src="./assets/footer-signal.svg" alt="Engineering with purpose. Building with intelligence. — assinatura animada em degradê" width="100%" />
