@@ -36,4 +36,4 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 
 <br/>
 
-<img src="./assets/footer-signal.svg" alt="Engineering with purpose. Building with intelligence. — assinatura animada em degradê" width="100%" />
+<img src="./assets/footer-signal.svg?v=2" alt="Engineering with purpose. Building with intelligence. — assinatura animada em degradê" width="100%" />
