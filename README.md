@@ -33,3 +33,7 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 <img src="./assets/ai-architecture-final.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
 <img src="./assets/ai-badges-row.svg" alt="AI Security, Human-in-the-loop, LLMs, RAG, MCP, AI Agents, Agent Harnesses, Evals, Observability e AI-assisted SDLC" width="100%" />
+
+<br/>
+
+<img src="./assets/footer-signal.svg" alt="Engineering with purpose. Building with intelligence. — assinatura animada em degradê" width="100%" />
