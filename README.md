@@ -105,6 +105,8 @@ Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organi
 
 <sub>Gráfico gerado por serviço externo a partir das contribuições públicas visíveis no GitHub. Pode ficar indisponível temporariamente.</sub>
 
+**[Ver meu histórico de contribuições diretamente no GitHub](https://github.com/brunociccio?tab=overview)**
+
 ---
 
 ## Reconhecimentos
