@@ -1,25 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="904" height="108" viewBox="0 0 904 108" role="img" aria-labelledby="footerTitle footerDesc">
-<title id="footerTitle">Engenharia com propósito. Construindo com inteligência.</title>
-<desc id="footerDesc">Uma linha animada em degradê atravessa o rodapé, acompanhada de uma assinatura profissional em português.</desc>
-<defs>
-  <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EF4444"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EF4444" stop-opacity="0"/><stop offset=".5" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient>
-</defs>
+<title id="footerTitle">Transformando complexidade em soluções através da engenharia e da inteligência</title>
+<desc id="footerDesc">Linha de destaque em degradê vermelho, roxo e azul, seguida por uma assinatura profissional em português.</desc>
+<defs><linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EF4444"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient></defs>
 <style>
-  .signature{font-family:Arial,Helvetica,sans-serif;font-size:19px;font-weight:500;fill:#DCE3EC}
-  .secondary{font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:2px;fill:#8B949E}
-  .trace{stroke-dasharray:904;stroke-dashoffset:904;animation:trace 5s ease-in-out infinite}
-  .pulse{animation:pulse 5s ease-in-out infinite}
-  
-  @keyframes trace{0%{stroke-dashoffset:904}45%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-904}}
-  @keyframes pulse{0%,10%{opacity:0;transform:translateX(0)}40%{opacity:.85}75%{opacity:0;transform:translateX(850px)}100%{opacity:0;transform:translateX(850px)}}
-  
-  @media(prefers-color-scheme:light){.signature{fill:#24292F}.secondary{fill:#667085}}
-  @media(prefers-reduced-motion:reduce){.trace,.pulse,.reveal{animation:none!important}.trace{stroke-dashoffset:0}.pulse{opacity:0}.reveal{opacity:1}}
+.signature{font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:500;fill:#DCE3EC}
+.secondary{font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:1.4px;fill:#8B949E}
+@media(prefers-color-scheme:light){.signature{fill:#24292F}.secondary{fill:#667085}}
 </style>
-<path d="M0 14 H904" fill="none" stroke="#3B4556" stroke-width="1" opacity=".35"/>
-<path class="trace" d="M0 14 H904" fill="none" stroke="url(#signal)" stroke-width="3"/>
-<rect class="pulse" x="0" y="10" width="54" height="8" rx="4" fill="url(#glow)" opacity="0"/>
-<text class="signature" x="452" y="65" text-anchor="middle">Engenharia com propósito. Construindo com inteligência.</text>
-<text class="secondary" x="452" y="88" text-anchor="middle">BRUNO CICCIO  ·  ENGENHARIA DE SOFTWARE  ·  IA  ·  DESIGN</text>
+<rect x="0" y="12" width="904" height="3" rx="1.5" fill="url(#signal)"/>
+<text class="signature" x="452" y="62" text-anchor="middle">Transformando complexidade em soluções através da engenharia e da inteligência</text>
+<text class="secondary" x="452" y="89" text-anchor="middle">BRUNO CICCIO  ·  ENGENHARIA DE SOFTWARE  ·  IA  ·  DESIGN</text>
 </svg>
