@@ -9,18 +9,18 @@
 <text x="28" y="44" class="diagram-label" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400">INTELLIGENT SYSTEMS</text>
 <text x="932" y="44" class="diagram-muted" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end">CONCEPTUAL ARCHITECTURE</text>
 <g font-family="Arial,Helvetica,sans-serif">
-  <rect x="28" y="77" width="268" height="105" rx="12" fill="#161B22" stroke="#3B4556"/>
-  <rect x="28" y="77" width="268" height="3" rx="1.5" fill="#EF4444"/>
+  <path d="M28 77 H296 V170 Q296 182 284 182 H40 Q28 182 28 170 Z" fill="#161B22" stroke="#3B4556"/>
+  <rect x="28" y="77" width="268" height="3" fill="#EF4444"/>
   <text x="48" y="108" fill="#9CA3AF" font-size="11" letter-spacing="1.5">01 / FOUNDATION</text>
   <text x="48" y="139" fill="#F0F6FC" font-size="22" font-weight="700">Context Engineering</text>
   <text x="48" y="161" fill="#AAB4C2" font-size="13">Instructions · Knowledge · Memory</text>
-  <rect x="346" y="77" width="268" height="105" rx="12" fill="#161B22" stroke="#3B4556"/>
-  <rect x="346" y="77" width="268" height="3" rx="1.5" fill="#8B5CF6"/>
+  <path d="M346 77 H614 V170 Q614 182 602 182 H358 Q346 182 346 170 Z" fill="#161B22" stroke="#3B4556"/>
+  <rect x="346" y="77" width="268" height="3" fill="#8B5CF6"/>
   <text x="366" y="108" fill="#9CA3AF" font-size="11" letter-spacing="1.5">02 / ORCHESTRATION</text>
   <text x="366" y="139" fill="#F0F6FC" font-size="22" font-weight="700">AI Agents</text>
   <text x="366" y="161" fill="#AAB4C2" font-size="13">Planning · Decisions · Workflows</text>
-  <rect x="664" y="77" width="268" height="105" rx="12" fill="#161B22" stroke="#3B4556"/>
-  <rect x="664" y="77" width="268" height="3" rx="1.5" fill="#3B82F6"/>
+  <path d="M664 77 H932 V170 Q932 182 920 182 H676 Q664 182 664 170 Z" fill="#161B22" stroke="#3B4556"/>
+  <rect x="664" y="77" width="268" height="3" fill="#3B82F6"/>
   <text x="684" y="108" fill="#9CA3AF" font-size="11" letter-spacing="1.5">03 / CAPABILITIES</text>
   <text x="684" y="139" fill="#F0F6FC" font-size="22" font-weight="700">MCP · Tools · RAG</text>
   <text x="684" y="161" fill="#AAB4C2" font-size="13">Integrations · Retrieval · Data</text>
@@ -29,8 +29,8 @@
   <path d="M622 130 H654" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
   <path d="M649 125 L655 130 L649 135" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M480 182 V206" fill="none" stroke="#586576" stroke-width="2" stroke-dasharray="4 5"/>
-  <rect x="28" y="206" width="904" height="78" rx="11" fill="#161B22" stroke="#344154"/>
-  <rect x="28" y="206" width="4" height="78" rx="2" fill="url(#accent)"/>
+  <path d="M28 206 H921 Q932 206 932 217 V273 Q932 284 921 284 H28 Z" fill="#161B22" stroke="#344154"/>
+  <rect x="28" y="206" width="4" height="78" fill="url(#accent)"/>
   <text x="49" y="234" fill="#AAB4C2" font-size="11" letter-spacing="1.4">QUALITY &amp; TRUST</text>
   <text x="49" y="266" fill="#F0F6FC" font-size="16" font-weight="700">Evals</text>
   <circle cx="171" cy="260" r="3" fill="#586576"/>
