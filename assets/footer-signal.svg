@@ -10,10 +10,10 @@
   .secondary{font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:2px;fill:#8B949E}
   .trace{stroke-dasharray:904;stroke-dashoffset:904;animation:trace 5s ease-in-out infinite}
   .pulse{animation:pulse 5s ease-in-out infinite}
-  .reveal{opacity:.03;animation:reveal 5s linear infinite}
+  .reveal{animation:reveal 5s ease-in-out infinite}
   @keyframes trace{0%{stroke-dashoffset:904}45%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-904}}
   @keyframes pulse{0%,10%{opacity:0;transform:translateX(0)}40%{opacity:.85}75%{opacity:0;transform:translateX(850px)}100%{opacity:0;transform:translateX(850px)}}
-  @keyframes reveal{0%{opacity:.03}45%{opacity:1}85%{opacity:1}100%{opacity:.03}}
+  @keyframes reveal{0%,18%{opacity:.4}50%,90%{opacity:1}100%{opacity:.4}}
   @media(prefers-color-scheme:light){.signature{fill:#24292F}.secondary{fill:#667085}}
   @media(prefers-reduced-motion:reduce){.trace,.pulse,.reveal{animation:none!important}.trace{stroke-dashoffset:0}.pulse{opacity:0}.reveal{opacity:1}}
 </style>
@@ -21,5 +21,5 @@
 <path class="trace" d="M0 14 H904" fill="none" stroke="url(#signal)" stroke-width="3"/>
 <rect class="pulse" x="0" y="10" width="54" height="8" rx="4" fill="url(#glow)" opacity="0"/>
 <text class="signature reveal" x="452" y="65" text-anchor="middle">Engineering with purpose. Building with intelligence.</text>
-<text class="secondary reveal" x="452" y="88" text-anchor="middle">SOFTWARE ENGINEERING  /  AI  /  DESIGN</text>
+<text class="secondary" x="452" y="88" text-anchor="middle">SOFTWARE ENGINEERING  /  AI  /  DESIGN</text>
 </svg>
