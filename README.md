@@ -6,25 +6,17 @@
 
 ## Sobre mim
 
-Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, AI Engineering, Full Stack e UX/UI Design**. Conecto engenharia, experiência do usuário e visão de produto para transformar necessidades reais em soluções consistentes.
+Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, Full Stack e UX/UI Design**. Conecto engenharia, design e visão de produto para criar experiências digitais consistentes.
 
-Valorizo **código limpo, arquitetura bem definida e sistemas preparados para evoluir**. Adoto uma abordagem **AI-first de ponta a ponta**, incorporando inteligência artificial desde a concepção da arquitetura até a implementação, os testes e a revisão. Para mim, a IA é fundamental para ampliar possibilidades e potencializar o desenvolvimento, **sem substituir fundamentos técnicos, qualidade ou pensamento crítico**.
-
-<div align="center">
-
-**Engineering** &nbsp; · &nbsp; **Design** &nbsp; · &nbsp; **Intelligence**
-
-</div>
+Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas fáceis de manter e evoluir**. A inteligência artificial é parte essencial do meu processo de desenvolvimento, ampliando possibilidades sem substituir qualidade, fundamentos técnicos ou pensamento crítico.
 
 ## Tech Stack
 
-Tecnologias que utilizo para construir, experimentar e evoluir produtos.
-
-**Front-end & Design**
+### Front-end & Design
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,figma&theme=dark" alt="React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS e Figma" />
 
-**Back-end & Engineering**
+### Back-end & Engineering
 
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,docker,git,github,githubactions,vscode&theme=dark" alt="Node.js, Java, Spring Boot, PostgreSQL, Docker, Git, GitHub, GitHub Actions e VS Code" />
 
@@ -32,9 +24,9 @@ Tecnologias que utilizo para construir, experimentar e evoluir produtos.
 
 ## AI Engineering
 
-Minha abordagem **AI-first** integra IA a todo o ciclo de engenharia de software, da definição da arquitetura à entrega. Utilizo **Context Engineering, Agent Harnesses, RAG, MCP e agentes** para organizar conhecimento, conectar ferramentas e apoiar decisões e implementações com contexto.
+Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura à implementação, aos testes e à entrega. Com **Context Engineering, Agent Harnesses, RAG, MCP e agentes**, estruturo fluxos que integram contexto, conhecimento e ferramentas ao trabalho de engenharia.
 
-No **AI-assisted SDLC**, combino automação com critérios claros de engenharia. **Evals, observabilidade, segurança e Human-in-the-loop** sustentam revisões, rastreabilidade e qualidade, mantendo o controle técnico e a responsabilidade pelas decisões.
+No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de segurança e **Human-in-the-loop** para orientar automações e manter as decisões técnicas verificáveis e sob responsabilidade humana.
 
 <img src="./assets/ai-architecture.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
@@ -56,8 +48,6 @@ No **AI-assisted SDLC**, combino automação com critérios claros de engenharia
 <div align="center">
 
 ### Code. Design. Intelligence.
-
-Front-end Engineering · Software Architecture · AI Engineering · Product Design
 
 ### Contato
 
