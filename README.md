@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/hero-tight.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" /><br/>
+  <img src="./assets/hero-spaced.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" /><br/>
   <a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
   <a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
   <a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
@@ -29,7 +29,7 @@ Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura
 
 No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de segurança e **Human-in-the-loop** para orientar automações e manter as decisões técnicas verificáveis e sob responsabilidade humana.
 
-<img src="./assets/ai-architecture-refined.svg?v=20261023d" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
+<img src="./assets/ai-architecture-balanced.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
 ![LLMs](https://img.shields.io/badge/LLMs-161B22?style=flat-square&labelColor=8B5CF6)
 ![RAG](https://img.shields.io/badge/RAG-161B22?style=flat-square&labelColor=8B5CF6)
