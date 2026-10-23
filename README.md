@@ -2,17 +2,13 @@
 
 <img src="./assets/hero.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
-<a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="170" height="46" /></a>
-<a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="170" height="46" /></a>
-<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="170" height="46" /></a>
-
 </div>
 
 ## Sobre mim
 
-Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, AI Engineering, Full Stack e UX/UI Design**. Gosto de participar de todo o processo de construção de um produto, conectando decisões técnicas, experiência do usuário e objetivos de negócio.
+Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, AI Engineering, Full Stack e UX/UI Design**. Conecto engenharia, experiência do usuário e visão de produto para transformar necessidades reais em soluções consistentes.
 
-Meu foco é desenvolver **interfaces bem estruturadas, sistemas preparados para evoluir e experiências digitais consistentes**. Enxergo a inteligência artificial como uma extensão da engenharia de software, capaz de ampliar possibilidades sem substituir fundamentos, qualidade e pensamento crítico.
+Valorizo **código limpo, arquitetura bem definida e sistemas preparados para evoluir**. Adoto uma abordagem **AI-first de ponta a ponta**, incorporando inteligência artificial desde a concepção da arquitetura até a implementação, os testes e a revisão. Para mim, a IA é fundamental para ampliar possibilidades e potencializar o desenvolvimento, **sem substituir fundamentos técnicos, qualidade ou pensamento crítico**.
 
 <div align="center">
 
@@ -36,9 +32,9 @@ Tecnologias que utilizo para construir, experimentar e evoluir produtos.
 
 ## AI Engineering
 
-A inteligência artificial faz parte da minha forma de projetar e desenvolver software. Utilizo **Context Engineering, Agent Harnesses, RAG, MCP e agentes** para estruturar contextos, conectar ferramentas e construir fluxos de trabalho mais consistentes.
+Minha abordagem **AI-first** integra IA a todo o ciclo de engenharia de software, da definição da arquitetura à entrega. Utilizo **Context Engineering, Agent Harnesses, RAG, MCP e agentes** para organizar conhecimento, conectar ferramentas e apoiar decisões e implementações com contexto.
 
-Aplico esses conceitos ao **AI-assisted SDLC**, integrando IA ao planejamento, à implementação, aos testes e à revisão. **Evals, observabilidade, segurança e Human-in-the-loop** ajudam a manter qualidade, rastreabilidade e responsabilidade técnica.
+No **AI-assisted SDLC**, combino automação com critérios claros de engenharia. **Evals, observabilidade, segurança e Human-in-the-loop** sustentam revisões, rastreabilidade e qualidade, mantendo o controle técnico e a responsabilidade pelas decisões.
 
 <img src="./assets/ai-architecture.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
@@ -63,6 +59,10 @@ Aplico esses conceitos ao **AI-assisted SDLC**, integrando IA ao planejamento, �
 
 Front-end Engineering · Software Architecture · AI Engineering · Product Design
 
-<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Entrar em contato por e-mail" width="170" height="46" /></a>
+### Contato
+
+<a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
+<a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
+<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
 
 </div>
