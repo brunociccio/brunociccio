@@ -17,7 +17,6 @@ Trabalho na concepção, arquitetura, desenvolvimento e evolução de produtos d
 
 Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot**, modernização de sistemas legados e design systems, além de prototipação avançada com **Figma e Framer**.
 
----
 
 ## Áreas de atuação
 
@@ -28,7 +27,6 @@ Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot*
 | **AI Engineering** | Aplicações com LLMs, RAG, Tool/Function Calling, MCP, Agents, Agentic Workflows, Evals e operação de sistemas de IA. |
 | **UX/UI & Product Design** | Experiência do usuário, fluxos, jornadas, prototipação com Figma e Framer e alinhamento entre design e engenharia. |
 
----
 
 ## Tecnologias e ferramentas
 
@@ -46,7 +44,6 @@ Tenho experiência com **React, Angular, TypeScript, Node.js e Java/Spring Boot*
 
 **Outras competências:** Framer · APIs REST · Arquitetura de Software · Integrações · CI/CD · Design Systems · Context Engineering · LLMOps
 
----
 
 ## AI Engineering · Arquitetura e sistemas inteligentes
 
@@ -72,7 +69,6 @@ Projeto, desenvolvo e implemento soluções baseadas em LLMs, incluindo recupera
 
 </details>
 
----
 
 ## AI-first Software Engineering
 
@@ -84,7 +80,6 @@ Aplico inteligência artificial ao ciclo de desenvolvimento de software (**SDLC*
 
 Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organizar documentação, ferramentas, contexto, restrições arquiteturais e critérios de qualidade. O objetivo é construir processos mais consistentes, rastreáveis e confiáveis, sem abrir mão de revisão e responsabilidade técnica.
 
----
 
 ## Experiência e projetos
 
@@ -93,7 +88,6 @@ Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organi
 
 > Projetos corporativos são apresentados em nível geral, sem expor código, dados ou arquitetura interna não públicos.
 
----
 
 ## Atividade no GitHub
 
@@ -107,7 +101,6 @@ Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organi
 
 **[Ver meu histórico de contribuições diretamente no GitHub](https://github.com/brunociccio?tab=overview)**
 
----
 
 ## Reconhecimentos
 
@@ -119,6 +112,7 @@ Utilizo **Context Engineering, Agent Harnesses e Agentic Workflows** para organi
 - **Análise e Desenvolvimento de Sistemas** — FIAP
 - **MBA em UX/UI com IA** — Em andamento
 - **Pós-graduação em Engenharia de Software aplicada à IA** — Em andamento
+
 
 ---
 
