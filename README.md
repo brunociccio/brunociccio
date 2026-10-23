@@ -2,8 +2,9 @@
 
 <img src="./assets/hero.svg" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/brunociccio)
+<a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="170" height="46" /></a>
+<a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="170" height="46" /></a>
+<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="170" height="46" /></a>
 
 </div>
 
@@ -21,7 +22,7 @@ Meu foco é desenvolver **interfaces bem estruturadas, sistemas preparados para 
 
 ## Tech Stack
 
-<sub>TECNOLOGIAS COM AS QUAIS CONSTRUO, EXPERIMENTO E EVOLUO PRODUTOS</sub>
+Tecnologias que utilizo para construir, experimentar e evoluir produtos.
 
 **Front-end & Design**
 
@@ -31,7 +32,7 @@ Meu foco é desenvolver **interfaces bem estruturadas, sistemas preparados para 
 
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,docker,git,github,githubactions,vscode&theme=dark" alt="Node.js, Java, Spring Boot, PostgreSQL, Docker, Git, GitHub, GitHub Actions e VS Code" />
 
-<sub>Complementares: Framer · Supabase · APIs REST · Integrações · Design Systems · CI/CD</sub>
+**Complementares:** Framer · Supabase · APIs REST · Integrações · Design Systems · CI/CD
 
 ## AI Engineering
 
@@ -60,8 +61,8 @@ Aplico esses conceitos ao **AI-assisted SDLC**, integrando IA ao planejamento, �
 
 ### Code. Design. Intelligence.
 
-<sub>Front-end Engineering · Software Architecture · AI Engineering · Product Design</sub>
+Front-end Engineering · Software Architecture · AI Engineering · Product Design
 
-[![Conectar no LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ciccio/)
+<a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Entrar em contato por e-mail" width="170" height="46" /></a>
 
 </div>
