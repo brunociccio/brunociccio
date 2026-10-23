@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="904" height="108" viewBox="0 0 904 108" role="img" aria-labelledby="title desc">
+<title id="title">Engineering with purpose. Building with intelligence.</title>
+<desc id="desc">Linha em degradê se desenha da esquerda para a direita; depois a assinatura aparece progressivamente, partindo do invisível.</desc>
+<defs>
+<linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#EF4444"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<clipPath id="revealClip"><rect x="0" y="37" width="0" height="63"><animate attributeName="width" values="0;0;904;904;0" keyTimes="0;.33;.68;.91;1" dur="7s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>
+.signature{font-family:Arial,Helvetica,sans-serif;font-size:19px;font-weight:500;fill:#DCE3EC}
+.secondary{font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:2px;fill:#8B949E}
+@media(prefers-color-scheme:light){.signature{fill:#24292F}.secondary{fill:#667085}}
+@media(prefers-reduced-motion:reduce){.signature,.secondary{opacity:1}}
+</style>
+<path d="M0 14 H904" fill="none" stroke="url(#signal)" stroke-width="3" stroke-dasharray="904" stroke-dashoffset="904">
+<animate attributeName="stroke-dashoffset" values="904;0;0;904" keyTimes="0;.33;.91;1" dur="7s" repeatCount="indefinite"/>
+</path>
+<g clip-path="url(#revealClip)">
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;.02;1;1;0" keyTimes="0;.33;.4;.68;.91;1" dur="7s" repeatCount="indefinite"/>
+<text class="signature" x="452" y="65" text-anchor="middle">Engineering with purpose. Building with intelligence.</text>
+<text class="secondary" x="452" y="88" text-anchor="middle">SOFTWARE ENGINEERING  /  AI  /  DESIGN</text>
+</g>
+</g>
+</svg>
