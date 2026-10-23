@@ -1,8 +1,4 @@
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/brunociccio/brunociccio/main/assets/hero.svg?v=20261023b" alt="Bruno Ciccio — Front-end Specialist, Software Architecture & AI Engineering" width="100%" />
-
-</div>
 
 ## Sobre mim
 
@@ -30,8 +26,6 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 
 <img src="https://raw.githubusercontent.com/brunociccio/brunociccio/main/assets/ai-architecture.svg?v=20261023b" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
-<div align="center">
-
 ![LLMs](https://img.shields.io/badge/LLMs-161B22?style=flat-square&labelColor=8B5CF6)
 ![RAG](https://img.shields.io/badge/RAG-161B22?style=flat-square&labelColor=8B5CF6)
 ![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square&labelColor=8B5CF6)
@@ -43,16 +37,8 @@ No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de seg
 ![AI-assisted SDLC](https://img.shields.io/badge/AI--assisted_SDLC-161B22?style=flat-square&labelColor=3B82F6)
 ![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-161B22?style=flat-square&labelColor=EF4444)
 
-</div>
-
-<div align="center">
-
-### Code. Design. Intelligence.
-
-### Contato
+## Contato
 
 <a href="https://github.com/brunociccio"><img src="./assets/contact-github.svg" alt="GitHub" width="152" height="41" /></a>
 <a href="https://www.linkedin.com/in/bruno-ciccio/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="152" height="41" /></a>
 <a href="mailto:dev.bruno.ciccio@gmail.com"><img src="./assets/contact-email.svg" alt="Enviar e-mail para dev.bruno.ciccio@gmail.com" width="152" height="41" /></a>
-
-</div>
