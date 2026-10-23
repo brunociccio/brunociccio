@@ -6,7 +6,7 @@
 </p>
 
 <p><img src="./assets/title-about-compact.svg" alt="Sobre mim" width="560" height="36" /><br/>
-Sou **Desenvolvedor de Software especializado em Front-end**, com atuação em **Arquitetura de Software, Full Stack e UX/UI Design**. Conecto engenharia, design e visão de produto para criar experiências digitais consistentes.</p>
+Sou <strong>Desenvolvedor de Software especializado em Front-end</strong>, com atuação em <strong>Arquitetura de Software, Full Stack e UX/UI Design</strong>. Conecto engenharia, design e visão de produto para criar experiências digitais consistentes.</p>
 
 Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas fáceis de manter e evoluir**. A inteligência artificial é parte essencial do meu processo de desenvolvimento, ampliando possibilidades sem substituir qualidade, fundamentos técnicos ou pensamento crítico.
 
@@ -26,30 +26,10 @@ Valorizo **código limpo, decisões arquiteturais bem fundamentadas e sistemas f
 <br/>
 
 <p><img src="./assets/title-ai-compact.svg" alt="AI Engineering" width="560" height="36" /><br/>
-Adoto uma abordagem **AI-first de ponta a ponta**, da concepção da arquitetura à implementação, aos testes e à entrega. Com **Context Engineering, Agent Harnesses, RAG, MCP e agentes**, estruturo fluxos que integram contexto, conhecimento e ferramentas ao trabalho de engenharia.</p>
+Adoto uma abordagem <strong>AI-first de ponta a ponta</strong>, da concepção da arquitetura à implementação, aos testes e à entrega. Com <strong>Context Engineering, Agent Harnesses, RAG, MCP e agentes</strong>, estruturo fluxos que integram contexto, conhecimento e ferramentas ao trabalho de engenharia.</p>
 
 No **AI-assisted SDLC**, utilizo avaliações, observabilidade, práticas de segurança e **Human-in-the-loop** para orientar automações e manter as decisões técnicas verificáveis e sob responsabilidade humana.
 
 <img src="./assets/ai-architecture-final.svg" alt="Diagrama conceitual de engenharia de IA com contexto, agentes, ferramentas, RAG, avaliação e segurança" width="100%" />
 
-<p align="left">
-<img src="https://img.shields.io/badge/AI_Security-161B22?style=flat-square&amp;labelColor=EF4444" alt="AI Security" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Human--in--the--loop-161B22?style=flat-square&amp;labelColor=EF4444" alt="Human-in-the-loop" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LLMs-161B22?style=flat-square&amp;labelColor=8B5CF6" alt="LLMs" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&amp;labelColor=8B5CF6" alt="RAG" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&amp;labelColor=8B5CF6" alt="MCP" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat-square&amp;labelColor=8B5CF6" alt="AI Agents" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Agent_Harnesses-161B22?style=flat-square&amp;labelColor=8B5CF6" alt="Agent Harnesses" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Evals-161B22?style=flat-square&amp;labelColor=3B82F6" alt="Evals" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Observability-161B22?style=flat-square&amp;labelColor=3B82F6" alt="Observability" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AI--assisted_SDLC-161B22?style=flat-square&amp;labelColor=3B82F6" alt="AI-assisted SDLC" />
-</p>
+<img src="./assets/ai-badges-row.svg" alt="AI Security, Human-in-the-loop, LLMs, RAG, MCP, AI Agents, Agent Harnesses, Evals, Observability e AI-assisted SDLC" width="100%" />
